@@ -1,0 +1,68 @@
+html{
+	color: white;
+	font-family: 'IBM Plex Mono', monospace;
+}
+
+
+.title{
+	font-family: 'Press Start 2P', cursive;;
+	color: white;
+	text-align: center;
+	font-size: 60px;
+}
+
+#column1{
+	float: left;
+	width: 20%;
+	position: relative;
+	left: 3.5%;
+}
+
+.click{
+	position: relative;
+	top: -30px;
+	font-size: 15px;
+}
+
+h6{
+	position: relative;
+	top: -25px;
+}
+
+#column2{
+	float: left;
+	width: 60%;
+	position: relative;
+	left: 100px;
+}
+
+
+.body-text{
+	font-size: 25px;
+	font-family: 'Nanum Gothic', sans-serif;;
+}
+
+li{
+	font-size: 20px;
+}
+
+
+
+/* links */
+a{
+	text-decoration: none;
+	color: white;
+}
+
+a:visited{
+	color: white;
+}
+
+a:hover{
+	color: pink;
+}
+
+a:active{
+	color: #99ccff;
+}
+/* end link stylings */
