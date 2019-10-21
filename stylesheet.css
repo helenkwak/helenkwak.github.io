@@ -6,9 +6,9 @@ html{
 
 .title{
 	font-family: 'Press Start 2P', cursive;;
-	color: white;
+	color: #0D02FF;
 	text-align: center;
-	font-size: 60px;
+	font-size: 150px;
 }
 
 #column1{
@@ -16,6 +16,7 @@ html{
 	width: 20%;
 	position: relative;
 	left: 3.5%;
+
 }
 
 .click{
